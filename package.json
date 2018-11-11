@@ -1,0 +1,25 @@
+{
+  "name": "steamplaydb-distro-icons",
+  "version": "0.0.1",
+  "description": "List of SVGs used for SteamPlayDB distro listings.",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteamPlayDB/steamplaydb-distro-icons.git"
+  },
+  "keywords": [
+    "svg",
+    "distro",
+    "linux",
+    "icons"
+  ],
+  "author": "Distro Authors",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteamPlayDB/steamplaydb-distro-icons/issues"
+  },
+  "homepage": "https://github.com/SteamPlayDB/steamplaydb-distro-icons#readme"
+}
